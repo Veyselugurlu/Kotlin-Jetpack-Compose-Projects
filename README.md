@@ -60,6 +60,21 @@ Each project is designed to demonstrate different UI components, architectural p
   <img src="screenshots/jetTriva/4.png" width="250" />
 </p>
 
+## 4. Jet Reader App  
+❓ An app that tracks book reading progress.
+
+*Screenshots:*  
+<p float="left">
+  <img src="screenshots/jetReader/1.png" width="250" />
+  <img src="screenshots/jetReader/2.png" width="250" />
+  <img src="screenshots/jetReader/3.png" width="250" />
+  <img src="screenshots/jetReader/4.png" width="250" />
+  <img src="screenshots/jetReader/5.png" width="250" />
+  <img src="screenshots/jetReader/6.png" width="250" />
+  <img src="screenshots/jetReader/7.png" width="250" />
+  <img src="screenshots/jetReader/8.png" width="250" />
+</p>
+
 ---
 
 ## 📬 Contact
